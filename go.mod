@@ -8,7 +8,6 @@ require (
 	github.com/go-chi/chi/v5 v5.0.7
 	github.com/jackc/pgconn v1.10.1
 	github.com/jackc/pgx/v4 v4.14.1
-	github.com/jmcbean/celeritas v0.0.0-00010101000000-000000000000
 	github.com/justinas/nosurf v1.1.1
 	github.com/ory/dockertest/v3 v3.8.1
 	github.com/upper/db/v4 v4.2.1
