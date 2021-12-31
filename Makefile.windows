@@ -14,7 +14,7 @@ run: build
 clean:
 	@echo Cleaning...
 	@go clean
-	@del .\tmp\${BINARY_NAME}
+	@rm .\tmp\${BINARY_NAME}
 	@echo Cleaned!
 
 test:
